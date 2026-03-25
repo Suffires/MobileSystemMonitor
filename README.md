@@ -1,2 +1,19 @@
-# MobileSystemMonitor
-Android app to display current RAM usage, battery temprature and battery health.
+# 📱 Mobile System Monitor
+
+An Android app that helps you keep track of your device’s performance and health in real time.  
+It shows:
+- 📊 Current RAM usage
+- 🌡️ Battery temperature
+- 🔋 Battery health status
+
+---
+
+## 🚀 Features
+- Real-time monitoring of RAM usage
+- Display of battery temperature in °C
+- Battery health status (Good, Overheat, Dead, etc.)
+- Simple and user-friendly interface
+
+---
+
+## 📂 Project Structure
