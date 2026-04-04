@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
        battery_health.setText("Battery Health: " + getBatteryHealth(this)); // showing Battery Health
 
-        battery_Temp.setText("Battery Helth : " +getBatteryTemp(this) + " °C"); // Showing Battery Temp
+        battery_Temp.setText("Battery Temperature : " +getBatteryTemp(this) + " °C"); // Showing Battery Temp
 
         updateTask = new Runnable() {
             @Override
