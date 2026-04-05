@@ -1,0 +1,4 @@
+A simple offline task manager for Android.
+- No ads
+- No tracking
+- No internet required
