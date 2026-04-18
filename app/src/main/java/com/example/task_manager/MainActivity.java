@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
            handler.post(updateTask);
     }
 
-    void showRamUsage() {
+    void showRamUsage() { // RAM use percantage
         ActivityManager activityManager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
         ActivityManager.MemoryInfo memoryInfo = new ActivityManager.MemoryInfo() ;
         activityManager.getMemoryInfo(memoryInfo);
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
     }
 
-    private String getBatteryHealth(Context context) {
+    private String getBatteryHealth(Context context) { // Battery health status
         IntentFilter ifilter = new IntentFilter(Intent.ACTION_BATTERY_CHANGED);
         Intent batteryStatus = context.registerReceiver(null, ifilter);
 
