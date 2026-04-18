@@ -1,15 +1,7 @@
-📱 Mobile System Monitor
+A minimal and privacy-friendly task manager to help you stay organized.
 
-An Android app that helps you keep track of your device’s performance and health in real time.
-It shows:
-
-    📊 Current RAM usage
-    🌡️ Battery temperature
-    🔋 Battery health status
-
-🚀 Features
-
-    Real-time monitoring of RAM usage
-    Display of battery temperature in °C
-    Battery health status (Good, Overheat, Dead, etc.)
-    Simple and user-friendly interface
+Features:
+• Add, edit and complete tasks
+• Clean and simple interface
+• Works completely offline
+• No ads or tracking

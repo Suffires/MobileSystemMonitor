@@ -1,1 +1,1 @@
-Simple offline task manager
+Simple and clean offline task manager
